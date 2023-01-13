@@ -18,8 +18,10 @@ int main(int argc,const char*argv[]){
     int n;
     while (scanf("%d",&n) != EOF)
     {
-        printf("%d\n", sum(n));
+        // printf("%d\n", sum(n));
     }
+
+    // printf("%d\n\n", n * (n + 1) / 2);
     return 0;
 }
 
